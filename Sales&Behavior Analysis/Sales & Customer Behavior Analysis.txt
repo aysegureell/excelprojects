@@ -1,0 +1,7 @@
+Sales & Customer Behavior Analysis (Excel)
+Analyzed online retail data to identify top-selling products, key markets, and customer purchasing behavior. Developed sales dashboards including revenue analysis, country-based performance, and customer segmentation using Excel Pivot Tables and data visualization.
+
+
+
+Sales & Customer Behavior Analysis Project (Excel)
+Conducted an end-to-end analysis of online retail sales data using Excel. Built interactive dashboards to evaluate key performance indicators such as total revenue, order volume, and customer count. Identified top-performing products by revenue and quantity, analyzed country-level sales distribution, and examined customer purchasing patterns including high-value and frequent buyers. Generated actionable insights by comparing product performance and customer behavior.
